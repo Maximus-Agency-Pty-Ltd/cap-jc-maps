@@ -1,6 +1,6 @@
 {
   "name": "cap-jc-maps",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "description": "A private, internal Google Maps component.",
   "main": "dist/esm/index.js",
   "types": "dist/esm/index.d.ts",
