@@ -25,11 +25,11 @@
     "dist/",
     "ios/",
     "android/",
-    "CapJCMaps.podspec"
+    "CapJcMaps.podspec"
   ],
   "keywords": [
     "mxms",
-    "plugin",
+    "plugin"
   ],
   "capacitor": {
     "ios": {

@@ -1,6 +1,6 @@
 
   Pod::Spec.new do |s|
-    s.name = 'CapJCMaps'
+    s.name = 'CapJcMaps'
     s.version = '0.0.1'
     s.summary = 'Plugin using native Maps API for Android and iOS.'
     s.license = 'MIT'
